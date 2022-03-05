@@ -31,3 +31,4 @@ with urllib.request.urlopen('http://localhost:4040/api/tunnels') as response:
 #Print root password
 
 print(f'Root password: {password}')
+
